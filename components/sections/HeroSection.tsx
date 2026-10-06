@@ -60,7 +60,7 @@ export const HeroSection = () => {
 
       {/* Top row: quiet date stamp, nothing else competing for attention */}
       <div className="hero-mono flex items-center justify-between px-8 pt-8 text-[11px] uppercase tracking-[0.25em] text-[#8A8A80] sm:px-14">
-        <span>Aug 5</span>
+        <span>Oct 7</span>
         {/* <span>One more lap</span> */}
       </div>
 
@@ -71,11 +71,11 @@ export const HeroSection = () => {
           <br />
           <span className="font-bold">Birthday</span>
           <br/>
-          <span className="font-bold mt-1 text-amber-500">Sweety</span>
+          <span className="font-bold mt-1 text-amber-500">Nisarga D</span>
         </h1>
         <div className="mt-6 h-px w-16 bg-[#9C7A3F]" />
         <p className="hero-body mt-6 max-w-sm text-base leading-relaxed text-[#4A4A42]">
-       wishing you a day filled with love, laughter, and all the happiness your heart can hold. May this year bring you endless joy and unforgettable memories. Happy Birthday!
+       "Wishing the happiest of birthdays to the wonderful Nisarga D! 🎉 You deserve nothing less than the best that life has to offer. I hope this year brings you closer to your biggest dreams and takes you to new heights of success. Never stop believing in yourself, because I know you are destined to reach the very top. Have a magical and beautiful day! 🥳✨"
         </p>
       </div>
 
