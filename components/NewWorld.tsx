@@ -96,17 +96,17 @@ function CardProvider({ children }: { children: React.ReactNode }) {
   // const cards: Card[] = [
   // { id: "1", imageUrl: "/pipis/pipi1.jpg", alt: "Cutie", title: "Cutie" },
 
-  // { id: "2", imageUrl: "/pipis/pipi2.jpg", alt: "Baddie", title: "Baddie" },
+  // { id: "2", imageUrl: "/pipis/pipi2.jpg", alt: "Beauty", title: "Beauty" },
   // { id: "3", imageUrl: "/pipis/pipi3.jpg", alt: "Angel", title: "Angel" },
-  // { id: "4", imageUrl: "/pipis/pipi4.jpg", alt: "Dreamgirl", title: "Dreamgirl" },
-  // { id: "5", imageUrl: "/pipis/pipi5.jpg", alt: "Sweetheart", title: "Sweetheart" },
+  // { id: "4", imageUrl: "/pipis/pipi4.jpg", alt: "Pinky", title: "Pinky" },
+  // { id: "5", imageUrl: "/pipis/pipi5.jpg", alt: "Belle", title: "Belle" },
   // { id: "6", imageUrl: "/pipis/pipi6.jpg", alt: "Icon", title: "Icon" },
-  // { id: "7", imageUrl: "/pipis/pipi7.jpg", alt: "Stunner", title: "Stunner" },
-  // { id: "8", imageUrl: "/pipis/pipi8.jpg", alt: "Babe", title: "Babe" },
-  // { id: "9", imageUrl: "/pipis/pipi9.jpg", alt: "Darling", title: "Darling" },
+  // { id: "7", imageUrl: "/pipis/pipi7.jpg", alt: "Callie", title: "Callie" },
+  // { id: "8", imageUrl: "/pipis/pipi8.jpg", alt: "Faye", title: "Faye" },
+  // { id: "9", imageUrl: "/pipis/pipi9.jpg", alt: "Nishuu", title: "Nishuu" },
   // { id: "10", imageUrl: "/pipis/pipi10.jpg", alt: "Sunshine", title: "Sunshine" },
   // { id: "11", imageUrl: "/pipis/pipi11.jpg", alt: "Queen", title: "Queen" },
-  // { id: "12", imageUrl: "/pipis/pipi12.jpg", alt: "Heartbreaker", title: "Heartbreaker" },
+  // { id: "12", imageUrl: "/pipis/pipi12.jpg", alt: "Ella", title: "Ella" },
 
   // optional extra images
   // { id: "13", imageUrl: "/pipis/pipi13.jpg", alt: "Extra 1", title: "Extra 1" },
