@@ -38,13 +38,13 @@ const images = [
 
 const captions = [
   "Cutie 🥹",
-  "Baddie 😎",
+  "Pinky 😎",
   "Pretty ✨",
-  "My Love 🤍",
+  "Lily 🤍",
   "Sunshine ☀️",
   // "Angel 🪽",
   "Beautiful 🌸",
-  "Dream Girl 💫",
+  "Ella 💫",
   "Queen 👑",
 ];
 
